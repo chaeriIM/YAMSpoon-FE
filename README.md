@@ -1,7 +1,6 @@
 # YAMSpoon
- YAMSpoon은 내 냉장고 속 재료들로 만들 수 있는 레시피들을 제공하는 서비스입니다.
+>YAMSpoon은 내 냉장고 속 재료들로 만들 수 있는 레시피들을 제공하는 서비스입니다.
 
-<hr />
 
 ## 📍서비스 소개
 
@@ -43,13 +42,13 @@ YAMSpoon은 재료별, 종류별(양식, 한식, 중식 등) 레시피뿐만 아
   
 ## 📍기술 스택
 #### Front End
-<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/> 
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
 <img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://shields.io/badge/axios-671ddf?logo=axios&style=for-the-badge"/> 
+<img src="https://shields.io/badge/axios-671ddf?logo=axios&style=for-the-badge"/>
 
 #### Back End
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge"/>
 
@@ -78,11 +77,13 @@ npm start
 
 | 아이디 | 비밀번호 |
 | ------ | ------ |
-| user123 | password397! |
+| test1 | testpwd1! |
+| test2 | testpwd2! |
+| test3 | testpwd3! |
 
 
 #### 접속 주소
-http://kdt-sw-8-team06.elicecoding.com:3001/
+http://kdt-sw-8-team06.elicecoding.com
 
 
 ## 📍프로젝트 팀원 역할 분담
