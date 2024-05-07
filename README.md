@@ -35,6 +35,9 @@ http://kdt-sw-8-team06.elicecoding.com
 ## 📍서비스 구성도
 
   - <a href="https://www.figma.com/file/Omc6RfrVc6zAiOwSL8Iif5?embed_host=notion&kind=file&mode=design&node-id=0%3A1&t=4QAk66G4NazUz4X0-1&type=design&viewer=1">와이어프레임</a> 
+  <img width="1328" alt="aa" src="https://github.com/chaeriIM/YAMSpoon-FE/assets/51882233/0cb8c71f-1b94-4b47-aadd-5cd8affd802e">
+  - ERD
+  ![erd](https://github.com/chaeriIM/YAMSpoon-FE/assets/51882233/ac987853-bb26-4c51-9f23-d18d04104100)
   - <a href="https://app.swaggerhub.com/apis/SILVERBIN2105_1/YAMSpoon/1.0.0">API 명세서</a>
 
 <br>
